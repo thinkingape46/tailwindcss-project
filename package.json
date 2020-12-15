@@ -1,4 +1,5 @@
 {
+  "homepage": "https://thinkingape46.github.io/tailwindcss-project",
   "name": "tailwindcss-project",
   "version": "0.1.0",
   "private": true,
@@ -17,6 +18,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
