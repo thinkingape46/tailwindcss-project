@@ -7,6 +7,8 @@ module.exports = {
         555: "rgba(85, 85, 85, 1)",
         333: "rgba(51, 51, 51, 1)",
         888: "rgba(136, 136, 136, 1)",
+        newblue: "rgba(57, 113, 158, 1)",
+        bottomBlue: "rgba(21, 65, 140, 1)",
       },
       maxWidth: {
         1366: "1366px",

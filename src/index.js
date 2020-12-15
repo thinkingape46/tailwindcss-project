@@ -6,10 +6,14 @@ import reportWebVitals from "./reportWebVitals";
 
 // Import React Components here
 import Header from "./components/Header";
+import Grid from "./components/Grid";
+import MoreStories from "./components/MoreStories";
 
 ReactDOM.render(
   <React.StrictMode>
     <Header />
+    <Grid />
+    <MoreStories />
   </React.StrictMode>,
   document.getElementById("root")
 );
