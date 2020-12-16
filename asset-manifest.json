@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tailwindcss-project/static/css/main.545cd588.chunk.css",
-    "main.js": "/tailwindcss-project/static/js/main.17cf7267.chunk.js",
-    "main.js.map": "/tailwindcss-project/static/js/main.17cf7267.chunk.js.map",
+    "main.css": "/tailwindcss-project/static/css/main.1ac106ea.chunk.css",
+    "main.js": "/tailwindcss-project/static/js/main.bb95f58c.chunk.js",
+    "main.js.map": "/tailwindcss-project/static/js/main.bb95f58c.chunk.js.map",
     "runtime-main.js": "/tailwindcss-project/static/js/runtime-main.348dc7f7.js",
     "runtime-main.js.map": "/tailwindcss-project/static/js/runtime-main.348dc7f7.js.map",
     "static/js/2.6834bee6.chunk.js": "/tailwindcss-project/static/js/2.6834bee6.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.ca759156.chunk.js": "/tailwindcss-project/static/js/3.ca759156.chunk.js",
     "static/js/3.ca759156.chunk.js.map": "/tailwindcss-project/static/js/3.ca759156.chunk.js.map",
     "index.html": "/tailwindcss-project/index.html",
-    "static/css/main.545cd588.chunk.css.map": "/tailwindcss-project/static/css/main.545cd588.chunk.css.map",
+    "static/css/main.1ac106ea.chunk.css.map": "/tailwindcss-project/static/css/main.1ac106ea.chunk.css.map",
     "static/js/2.6834bee6.chunk.js.LICENSE.txt": "/tailwindcss-project/static/js/2.6834bee6.chunk.js.LICENSE.txt",
-    "static/media/artemis-astronauts.9b199bf4.jpg": "/tailwindcss-project/static/media/artemis-astronauts.9b199bf4.jpg",
+    "static/media/artemis-astronauts.f06b7cd2.png": "/tailwindcss-project/static/media/artemis-astronauts.f06b7cd2.png",
     "static/media/artemis-card.21fa3f5d.jpg": "/tailwindcss-project/static/media/artemis-card.21fa3f5d.jpg",
     "static/media/artemis.b6cd6aa1.jpg": "/tailwindcss-project/static/media/artemis.b6cd6aa1.jpg",
     "static/media/astronautics.df2b380b.jpg": "/tailwindcss-project/static/media/astronautics.df2b380b.jpg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.348dc7f7.js",
     "static/js/2.6834bee6.chunk.js",
-    "static/css/main.545cd588.chunk.css",
-    "static/js/main.17cf7267.chunk.js"
+    "static/css/main.1ac106ea.chunk.css",
+    "static/js/main.bb95f58c.chunk.js"
   ]
 }
