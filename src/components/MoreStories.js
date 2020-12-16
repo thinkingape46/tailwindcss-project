@@ -2,9 +2,12 @@ import React, { useEffect } from "react";
 
 function MoreStories() {
   return (
-    <div className="max-w-1366 h-8 bg-bottomBlue my-4">
-      <p className=" py-7">MORE STORIES</p>
-    </div>
+    <a
+      href="#"
+      className="max-w-1366 my-auto mx-36 font-titilium bg-bottomBlue flex"
+    >
+      <p className="m-auto py-3">MORE STORIES</p>
+    </a>
   );
 }
 

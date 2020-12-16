@@ -9,6 +9,10 @@ module.exports = {
         888: "rgba(136, 136, 136, 1)",
         newblue: "rgba(57, 113, 158, 1)",
         bottomBlue: "rgba(21, 65, 140, 1)",
+        cardBlue: "rgba(93, 127, 185,1)",
+      },
+      color: {
+        footerBlue: "rgba(93, 127, 185, 1)",
       },
       maxWidth: {
         1366: "1366px",
@@ -24,18 +28,22 @@ module.exports = {
         mono: ["ui-monospace", "SFMono-Regular"],
         display: ["Oswald"],
         body: ["Open Sans"],
-        nav: [
+        titilium: [
           '"Titillium Web"',
           '"Helvetica Neue"',
           '"Helvetica"',
           "Arial",
           "sans-serif",
         ],
+        helvetica: [
+          '"Helvetica Neue"',
+          '"Titillium Web"',
+          '"Helvetica"',
+          "Arial",
+          "sans-serif",
+        ],
       },
     },
-  },
-  variants: {
-    extend: {},
   },
   plugins: [],
 };

@@ -11,6 +11,15 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+@layer utilities {
+  .borderBottom {
+    border-bottom: 1px solid #fff;
+  }
+  .w-fit {
+    width: fit-content;
+  }
+}
+
 /* code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;

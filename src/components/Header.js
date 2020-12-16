@@ -6,7 +6,7 @@ import searchImage from "../images/search.svg";
 import shareImage from "../images/share.svg";
 
 function Header() {
-  const navListStyleOne = "px-2.5 py-3 my-auto font-nav text-xl";
+  const navListStyleOne = "px-2.5 py-3 my-auto font-titilium text-xl";
   const navListStyleTwo = "p-2.5 font-nav bg-555 text-sm";
 
   return (

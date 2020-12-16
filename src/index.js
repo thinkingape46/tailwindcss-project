@@ -8,12 +8,14 @@ import reportWebVitals from "./reportWebVitals";
 import Header from "./components/Header";
 import Grid from "./components/Grid";
 import MoreStories from "./components/MoreStories";
+import Footer from "./components/Footer";
 
 ReactDOM.render(
   <React.StrictMode>
     <Header />
     <Grid />
     <MoreStories />
+    <Footer />
   </React.StrictMode>,
   document.getElementById("root")
 );

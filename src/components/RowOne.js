@@ -6,10 +6,10 @@ import Meteor from "./Meteor";
 
 function RowOne() {
   return (
-    <div className="grid grid-cols-2 my-1">
+    <div className="grid grid-cols-2 my-1 gap-1">
       <BigCard />
-      <div>
-        <div className="grid grid-cols-2">
+      <div className="grid gap-1">
+        <div className="grid grid-cols-2 gap-1">
           <ArtemisCard />
           <News />
         </div>
