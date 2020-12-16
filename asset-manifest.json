@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tailwindcss-project/static/css/main.0f11945e.chunk.css",
-    "main.js": "/tailwindcss-project/static/js/main.54d28a17.chunk.js",
-    "main.js.map": "/tailwindcss-project/static/js/main.54d28a17.chunk.js.map",
+    "main.css": "/tailwindcss-project/static/css/main.9e430fb8.chunk.css",
+    "main.js": "/tailwindcss-project/static/js/main.2ad8c09c.chunk.js",
+    "main.js.map": "/tailwindcss-project/static/js/main.2ad8c09c.chunk.js.map",
     "runtime-main.js": "/tailwindcss-project/static/js/runtime-main.348dc7f7.js",
     "runtime-main.js.map": "/tailwindcss-project/static/js/runtime-main.348dc7f7.js.map",
     "static/js/2.6834bee6.chunk.js": "/tailwindcss-project/static/js/2.6834bee6.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.ca759156.chunk.js": "/tailwindcss-project/static/js/3.ca759156.chunk.js",
     "static/js/3.ca759156.chunk.js.map": "/tailwindcss-project/static/js/3.ca759156.chunk.js.map",
     "index.html": "/tailwindcss-project/index.html",
-    "static/css/main.0f11945e.chunk.css.map": "/tailwindcss-project/static/css/main.0f11945e.chunk.css.map",
+    "static/css/main.9e430fb8.chunk.css.map": "/tailwindcss-project/static/css/main.9e430fb8.chunk.css.map",
     "static/js/2.6834bee6.chunk.js.LICENSE.txt": "/tailwindcss-project/static/js/2.6834bee6.chunk.js.LICENSE.txt",
     "static/media/artemis-astronauts.9b199bf4.jpg": "/tailwindcss-project/static/media/artemis-astronauts.9b199bf4.jpg",
     "static/media/artemis-card.21fa3f5d.jpg": "/tailwindcss-project/static/media/artemis-card.21fa3f5d.jpg",
@@ -19,7 +19,7 @@
     "static/media/earth.7e4f5320.png": "/tailwindcss-project/static/media/earth.7e4f5320.png",
     "static/media/elana.ec5f6e30.jpg": "/tailwindcss-project/static/media/elana.ec5f6e30.jpg",
     "static/media/image-day.0b1eb370.png": "/tailwindcss-project/static/media/image-day.0b1eb370.png",
-    "static/media/logo.6ce24c58.svg": "/tailwindcss-project/static/media/logo.6ce24c58.svg",
+    "static/media/logo.78fcba4d.svg": "/tailwindcss-project/static/media/logo.78fcba4d.svg",
     "static/media/meteor.dfd99cad.jpg": "/tailwindcss-project/static/media/meteor.dfd99cad.jpg",
     "static/media/nasa-at-home.c6275d6d.jpg": "/tailwindcss-project/static/media/nasa-at-home.c6275d6d.jpg",
     "static/media/nasa-logo-2.e02eb300.jpg": "/tailwindcss-project/static/media/nasa-logo-2.e02eb300.jpg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.348dc7f7.js",
     "static/js/2.6834bee6.chunk.js",
-    "static/css/main.0f11945e.chunk.css",
-    "static/js/main.54d28a17.chunk.js"
+    "static/css/main.9e430fb8.chunk.css",
+    "static/js/main.2ad8c09c.chunk.js"
   ]
 }
