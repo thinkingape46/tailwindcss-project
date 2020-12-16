@@ -7,9 +7,9 @@ const footerNavStyle = "mx-2 text-xs font-bold text-blue-400 hover:underline";
 function Footer() {
   return (
     <>
-      <div className="mt-3 pt-4 pb-20">
-        <div className="font-helvetica flex text-sm font-semibold">
-          <img src={NasaLogo} alt="NASA logo" />
+      <div className="py-4">
+        <div className="font-helvetica flex flex-col text-sm font-semibold my-2">
+          <img src={NasaLogo} className="h-16 w-fit" alt="NASA logo" />
           <div>
             <p>
               National&nbsp;Aeronautics&nbsp;and&nbsp;Space&nbsp;Administration
@@ -17,8 +17,8 @@ function Footer() {
             <p>NASA&nbsp;Official:&nbsp;Brian&nbsp;Dunbar</p>
           </div>
         </div>
-        <nav className="px-2 mr-0 ">
-          <ul className="flex justify-end">
+        <nav className="px-2 mr-0">
+          <ul className="flex flex-col">
             <li className={footerNavStyle}>
               <a href="#">No Fear Act</a>
             </li>

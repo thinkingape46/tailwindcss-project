@@ -6,7 +6,7 @@ import RowThree from "./RowThree";
 
 function Grid() {
   return (
-    <div className="pt-4 my-auto py-4">
+    <div className="my-auto py-2">
       <RowOne />
       <RowTwo />
       <RowThree />

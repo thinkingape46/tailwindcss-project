@@ -6,7 +6,7 @@ import Astronautics from "./Astronautics";
 
 function RowTwo() {
   return (
-    <div className="grid grid-cols-4 gap-x-2 my-1">
+    <div className="grid grid-cols-1 my-0">
       <Artemis />
       <Earth />
       <Astronautics />

@@ -8,7 +8,7 @@ import BlueButton from "../components/BlueButton";
 
 function ImageOfTheDay() {
   return (
-    <a href="#" className="relative">
+    <a href="#" className="relative my-2">
       <img src={imageofDay} className="w-full" alt="" />
       <div className="absolute left-0 bottom-0 right-0">
         <BlueButton>

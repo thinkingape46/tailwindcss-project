@@ -9,7 +9,7 @@ import BlueButton from "../components/BlueButton";
 function ArtemisCard() {
   return (
     <>
-      <a href="#" className="relative">
+      <a href="#" className="relative my-2">
         <img src={artemiscard} className="object-cover w-full" alt="" />{" "}
         <div className="absolute left-0 bottom-0 right-0">
           <BlueButton>

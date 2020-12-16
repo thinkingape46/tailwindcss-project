@@ -4,7 +4,7 @@ const linkStyle = "my-1 block hover:underline";
 
 function News() {
   return (
-    <div className="font-titilium bg-newblue p-2 flex flex-col">
+    <div className="font-titilium bg-newblue p-2 flex flex-col my-2">
       <p className="text-base justify-self-start py-1 borderBottom">
         NASA Events
       </p>

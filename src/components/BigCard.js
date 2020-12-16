@@ -8,11 +8,13 @@ import BlueButton from "../components/BlueButton";
 
 function BigCard() {
   return (
-    <a className="relative" href="#">
+    <a className="relative my-2" href="#">
       <img src={astronauts} className="w-full" alt="" />
       <div className="absolute left-0 bottom-0 right-0">
         <BlueButton>
-          <a href="" className="block"></a>Commercial&nbsp;Crew
+          <a href="" className="block">
+            Commercial&nbsp;Crew
+          </a>
         </BlueButton>
         <WhiteButton>
           <a href="#">

@@ -9,8 +9,8 @@ import BlueButton from "../components/BlueButton";
 function Meteor() {
   return (
     <>
-      <a className="relative" href="#">
-        <img src={meteor} className="object-cover w-full" alt="" />
+      <a className="relative my-2 h-64" href="#">
+        <img src={meteor} className="object-cover w-full h-full" alt="" />
         <div className="absolute left-0 bottom-0 right-0">
           <BlueButton>
             <a href="" className="block"></a>Solar System and Beyond

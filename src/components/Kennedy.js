@@ -7,7 +7,7 @@ import WhiteButton from "../components/WhiteButton";
 
 function Kennedy() {
   return (
-    <a href="#" className="relative">
+    <a href="#" className="relative my-2">
       <img src={kennedy} className="w-full" alt="" />
       <WhiteButton>
         <a href="#">Quasars Rip Across Galaxies Like Tsunamis</a>
