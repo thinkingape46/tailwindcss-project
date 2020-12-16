@@ -9,7 +9,7 @@ import BlueButton from "../components/BlueButton";
 function Astronautics() {
   return (
     <>
-      <a className="relative my-2">
+      <a className="relative">
         <img src={astronautics} className="w-full" alt="" />{" "}
         <div className="absolute left-0 bottom-0 right-0">
           <BlueButton>

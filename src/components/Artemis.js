@@ -8,7 +8,7 @@ import BlueButton from "../components/BlueButton";
 
 function Artemis() {
   return (
-    <a className="relative my-2">
+    <a className="relative gap-2">
       <img src={artemis} className="w-full object-fill" alt="" />
       <div className="absolute left-0 bottom-0 right-0">
         <BlueButton>

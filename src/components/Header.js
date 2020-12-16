@@ -10,7 +10,7 @@ function Header() {
   const navListStyleTwo = "p-2.5 font-nav bg-555 text-sm";
 
   return (
-    <header className="pt-4 py-4 flex bg-startfield justify-between ">
+    <header className="pt-6 py-2 flex bg-startfield justify-between ">
       <img src={nasaLogo} alt="NASA logo" className="w-16" />
       <nav className="flex w-fit">
         <ul className="flex flex-wrap my-5 w-fit ml-48 hidden">
