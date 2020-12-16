@@ -7,7 +7,7 @@ const footerNavStyle = "mx-2 text-xs font-bold text-blue-400 hover:underline";
 function Footer() {
   return (
     <>
-      <div className="mt-3 max-w-1366 pt-4 pb-20 mx-36">
+      <div className="mt-3 pt-4 pb-20">
         <div className="font-helvetica flex text-sm font-semibold">
           <img src={NasaLogo} alt="NASA logo" />
           <div>

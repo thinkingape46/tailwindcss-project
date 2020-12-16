@@ -5,6 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
 // Import React Components here
+import MainContainer from "./components/MainContainer";
 import Header from "./components/Header";
 import Grid from "./components/Grid";
 import MoreStories from "./components/MoreStories";
@@ -12,10 +13,12 @@ import Footer from "./components/Footer";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Header />
-    <Grid />
-    <MoreStories />
-    <Footer />
+    <MainContainer>
+      <Header />
+      <Grid />
+      <MoreStories />
+      <Footer />
+    </MainContainer>
   </React.StrictMode>,
   document.getElementById("root")
 );

@@ -8,7 +8,7 @@ import WhiteButton from "../components/WhiteButton";
 function NasaAtHome() {
   return (
     <a href="#" className="relative">
-      <img src={nasaAtHome} alt="NASA at home" />
+      <img src={nasaAtHome} className="w-full" alt="NASA at home" />
       <WhiteButton>
         <a href="#">Let NASA Bring the Universe to You</a>
       </WhiteButton>

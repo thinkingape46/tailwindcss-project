@@ -7,7 +7,7 @@ import Kennedy from "./Kennedy";
 
 function RowThree() {
   return (
-    <div className="grid grid-cols-4 gap-1 my-1">
+    <div className="grid grid-cols-4 gap-x-2 my-1">
       <ImageOfTheDay />
       <CoronaVirus />
       <NasaAtHome />

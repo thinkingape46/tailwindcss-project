@@ -10,7 +10,7 @@ function Astronautics() {
   return (
     <>
       <a className="relative">
-        <img src={astronautics} alt="" />{" "}
+        <img src={astronautics} className="w-full" alt="" />{" "}
         <div className="absolute left-0 bottom-0 right-0">
           <BlueButton>
             <a href="" className="block"></a>Astronautics
