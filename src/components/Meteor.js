@@ -9,7 +9,10 @@ import BlueButton from "../components/BlueButton";
 function Meteor() {
   return (
     <>
-      <a className="relative md:grid-cols-2" href="#">
+      <a
+        className="relative md:grid-cols-2 grid-flow-row lg:col-span-2"
+        href="#"
+      >
         <img src={meteor} className="object-cover w-full h-full" alt="" />
         <div className="absolute left-0 bottom-0 right-0">
           <BlueButton>

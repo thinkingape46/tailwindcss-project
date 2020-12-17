@@ -8,7 +8,7 @@ function Footer() {
   return (
     <>
       <div className="py-4">
-        <div className="font-helvetica flex flex-col text-sm font-semibold my-2">
+        <div className="font-helvetica flex flex-col lg:flex-row text-sm font-semibold my-2">
           <img src={NasaLogo} className="h-16 w-fit" alt="NASA logo" />
           <div>
             <p>
@@ -18,7 +18,7 @@ function Footer() {
           </div>
         </div>
         <nav className="px-2 mr-0">
-          <ul className="flex flex-col">
+          <ul className="flex flex-col lg:flex-row lg:justify-end">
             <li className={footerNavStyle}>
               <a href="#">No Fear Act</a>
             </li>

@@ -9,7 +9,7 @@ import BlueButton from "../components/BlueButton";
 function Earth() {
   return (
     <>
-      <a className="relative h-full object-cover w-full">
+      <a className="relative h-full object-cover w-full lg:col-start-2 lg:col-span-2">
         <img src={earth} alt="" className="h-full w-full" />
         <div className="absolute left-0 bottom-0 right-0">
           <BlueButton>
